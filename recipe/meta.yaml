@@ -1,6 +1,6 @@
 {% set name = "ctds" %}
-{% set version = "1.4.0" %}
-{% set sha256 = "54d05b58c2186daf0bf4e5f41b30aa2b3a0a9d78f9409e268481ef832d58d0be" %}
+{% set version = "1.7.0" %}
+{% set sha256 = "a1662a6de10f9f3f0093c8710a30ba5a194f6cd9a22f9385cd7199ec0e162dfe" %}
 
 package:
   name: {{ name|lower }}
